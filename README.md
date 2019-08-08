@@ -6,9 +6,7 @@
       <com.cd.t.polyline.PolyLine
         android:id="@+id/polyline"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:background="@color/color1"
-        android:visibility="visible" />
+        android:layout_height="wrap_content"/>
 
 # 依赖方式：
 
